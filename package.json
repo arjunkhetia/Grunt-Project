@@ -4,6 +4,7 @@
   "description": "Grunt - The JavaScript Task Runner",
   "main": "Gruntfile.js",
   "scripts": {
+    "start": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
